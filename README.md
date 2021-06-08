@@ -8,8 +8,8 @@ Hi there, I'm **Rajat Mishra**, just a oridnary weeb.
 
 **Talking about Personal Stuffs:**
 
-> 👨🏽‍💻 I’m just a weeb, who is learning to code and help people\n
-> 🌱 I’m currently learning Java and ReactJS\n
+> 👨🏽‍💻 I’m just a weeb, who is learning to code and help people <br>
+> 🌱 I’m currently learning Java and ReactJS <br>
 > 📫 Please email via hydrox127@gmail.com to reach me.
 
 **Languages and Tools:**  
