@@ -22,4 +22,4 @@
 
 ![HYDROX's github stats](https://github-readme-stats.vercel.app/api?username=hydrox19&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![STATS BRO](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=gruvbox)
+![STATS BRO](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrox19&layout=compact&theme=gruvbox)
