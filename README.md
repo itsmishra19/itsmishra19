@@ -7,7 +7,7 @@
 **Talking about Personal Stuffs:**
 
 > 👨🏽‍💻 I’m just a weeb, who is learning to code and help people <br>
-> 🌱 I’m currently learning Java and ReactJS <br>
+> 🌱 I’m currently learning Java <br>
 > 📫 Please email via hydrox127@gmail.com to reach me.
 
 **Languages and Tools:**  
@@ -20,6 +20,7 @@
 
 <br>
 
+### Stats
 
 <table>
   <tr>
