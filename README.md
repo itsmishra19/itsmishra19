@@ -1,6 +1,18 @@
-# 👋 Hey, I'm Rajat Mishra
+# # Hello! I am Rajat Mishra
 
-I am a **finance major** with a **minor in HR**, and a self-learned developer. I have a strong background in building scalable applications, particularly with **Go**, **JavaScript/TypeScript**, **Kotlin**, and more.
+I am currently pursuing a degree with a major in **Finance** and a minor in **HR**. Alongside my studies, I am a self-taught developer with experience in **Go**, **JavaScript/TypeScript**, and **Kotlin**. I have a passion for creating scalable applications and solving complex challenges through code.
+
+### Hobbies:
+- Hitting gym
+- Playing badminton
+- Coding
+
+### Interests:
+- Travelling
+- Watching Anime and Movies
+- Listening to Music
+- Playing Games
+
 
 ---
 
@@ -13,19 +25,21 @@ I am a **finance major** with a **minor in HR**, and a self-learned developer. I
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 ---
 
 ## 📂 Projects
 
-- **[Vote API](https://github.com/tuneorg/vote-api)**: A scalable vote handling API for Top.gg votes, built with Go and Docker.
-
+- **[Vote API](https://github.com/tuneorg/vote-api)**: A scalable vote handling API for Top.gg votes, built with Go
 ---
 
 ## 📫 Let's Connect
 
 You can reach me via email at [hydrox127@gmail.com](mailto:hydrox127@gmail.com) or find me on:
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/itsmishra19)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/itsmishra)
 
 ---
