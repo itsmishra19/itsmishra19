@@ -1,4 +1,4 @@
-# # Hello! I am Rajat Mishra
+# Hello! I am Rajat Mishra
 
 I am currently pursuing a degree with a major in **Finance** and a minor in **HR**. Alongside my studies, I am a self-taught developer with experience in **Go**, **JavaScript/TypeScript**, and **Kotlin**. I have a passion for creating scalable applications and solving complex challenges through code.
 
